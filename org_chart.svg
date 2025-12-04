@@ -1,0 +1,170 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="840" viewBox="0 0 1600 840">
+
+    <style>
+      .link {
+        stroke: #999;
+        stroke-width: 2;
+        fill: none;
+      }
+      .node rect {
+        fill: #f5f5f5;
+        stroke: #333;
+        stroke-width: 1.5;
+        rx: 6;
+        ry: 6;
+      }
+      .node text {
+        font-family: Arial, sans-serif;
+        font-size: 11px;
+        fill: #111;
+      }
+      .node .abbrev {
+        font-weight: bold;
+        font-size: 11px;
+      }
+      .node .unit-type {
+        font-size: 10px;
+        fill: #555;
+      }
+    </style>
+  
+<line class="link" x1="800" y1="100" x2="540" y2="180" />
+<line class="link" x1="800" y1="100" x2="800" y2="180" />
+<line class="link" x1="800" y1="100" x2="1060" y2="180" />
+<line class="link" x1="540" y1="240" x2="410" y2="320" />
+<line class="link" x1="540" y1="240" x2="670" y2="320" />
+<line class="link" x1="540" y1="240" x2="930" y2="320" />
+<line class="link" x1="540" y1="240" x2="1190" y2="320" />
+<line class="link" x1="670" y1="380" x2="150" y2="460" />
+<line class="link" x1="670" y1="380" x2="410" y2="460" />
+<line class="link" x1="930" y1="380" x2="670" y2="460" />
+<line class="link" x1="930" y1="380" x2="930" y2="460" />
+<line class="link" x1="1190" y1="380" x2="1190" y2="460" />
+<line class="link" x1="1190" y1="380" x2="1450" y2="460" />
+<line class="link" x1="410" y1="520" x2="410" y2="600" />
+<line class="link" x1="670" y1="520" x2="670" y2="600" />
+<line class="link" x1="1190" y1="520" x2="930" y2="600" />
+<line class="link" x1="1190" y1="520" x2="1190" y2="600" />
+<line class="link" x1="410" y1="660" x2="670" y2="740" />
+<line class="link" x1="670" y1="660" x2="930" y2="740" />
+<g class="node">
+<rect x="690" y="40" width="220" height="60" />
+<text class="abbrev" x="800" y="58" text-anchor="middle">USB</text>
+<text x="800" y="72" text-anchor="middle">United States Army</text>
+<text class="unit-type" x="800" y="86" text-anchor="middle">Army</text>
+</g>
+<g class="node">
+<rect x="430" y="180" width="220" height="60" />
+<text class="abbrev" x="540" y="198" text-anchor="middle">FORSCOM</text>
+<text x="540" y="212" text-anchor="middle">United States Army Forces Command</text>
+<text class="unit-type" x="540" y="226" text-anchor="middle">Army Command</text>
+</g>
+<g class="node">
+<rect x="690" y="180" width="220" height="60" />
+<text class="abbrev" x="800" y="198" text-anchor="middle">TRADOC</text>
+<text x="800" y="212" text-anchor="middle">United States Army Training and Doctrine Command</text>
+<text class="unit-type" x="800" y="226" text-anchor="middle">Army Command</text>
+</g>
+<g class="node">
+<rect x="950" y="180" width="220" height="60" />
+<text class="abbrev" x="1060" y="198" text-anchor="middle">AMC</text>
+<text x="1060" y="212" text-anchor="middle">United States Army Materiel Command</text>
+<text class="unit-type" x="1060" y="226" text-anchor="middle">Army Command</text>
+</g>
+<g class="node">
+<rect x="300" y="320" width="220" height="60" />
+<text class="abbrev" x="410" y="338" text-anchor="middle">USAREUR-AF</text>
+<text x="410" y="352" text-anchor="middle">United States Army Europe and Africa</text>
+<text class="unit-type" x="410" y="366" text-anchor="middle">Field Army</text>
+</g>
+<g class="node">
+<rect x="560" y="320" width="220" height="60" />
+<text class="abbrev" x="670" y="338" text-anchor="middle">USARPAC</text>
+<text x="670" y="352" text-anchor="middle">United States Army Pacific</text>
+<text class="unit-type" x="670" y="366" text-anchor="middle">Field Army</text>
+</g>
+<g class="node">
+<rect x="820" y="320" width="220" height="60" />
+<text class="abbrev" x="930" y="338" text-anchor="middle">XVIII Corps</text>
+<text x="930" y="352" text-anchor="middle">XVIII Airborne Corps</text>
+<text class="unit-type" x="930" y="366" text-anchor="middle">Corps</text>
+</g>
+<g class="node">
+<rect x="1080" y="320" width="220" height="60" />
+<text class="abbrev" x="1190" y="338" text-anchor="middle">III Corps</text>
+<text x="1190" y="352" text-anchor="middle">III Armored Corps</text>
+<text class="unit-type" x="1190" y="366" text-anchor="middle">Corps</text>
+</g>
+<g class="node">
+<rect x="40" y="460" width="220" height="60" />
+<text class="abbrev" x="150" y="478" text-anchor="middle">82nd ABN DIV</text>
+<text x="150" y="492" text-anchor="middle">82nd Airborne Division</text>
+<text class="unit-type" x="150" y="506" text-anchor="middle">Division</text>
+</g>
+<g class="node">
+<rect x="300" y="460" width="220" height="60" />
+<text class="abbrev" x="410" y="478" text-anchor="middle">101st ABN DIV</text>
+<text x="410" y="492" text-anchor="middle">101st Airborne Division (Air Assault)</text>
+<text class="unit-type" x="410" y="506" text-anchor="middle">Division</text>
+</g>
+<g class="node">
+<rect x="560" y="460" width="220" height="60" />
+<text class="abbrev" x="670" y="478" text-anchor="middle">1st CAV DIV</text>
+<text x="670" y="492" text-anchor="middle">1st Cavalry Division</text>
+<text class="unit-type" x="670" y="506" text-anchor="middle">Division</text>
+</g>
+<g class="node">
+<rect x="820" y="460" width="220" height="60" />
+<text class="abbrev" x="930" y="478" text-anchor="middle">1st AD</text>
+<text x="930" y="492" text-anchor="middle">1st Armored Division</text>
+<text class="unit-type" x="930" y="506" text-anchor="middle">Division</text>
+</g>
+<g class="node">
+<rect x="1080" y="460" width="220" height="60" />
+<text class="abbrev" x="1190" y="478" text-anchor="middle">1st BCT, 82nd</text>
+<text x="1190" y="492" text-anchor="middle">1st Brigade Combat Team, 82nd Airborne Division</text>
+<text class="unit-type" x="1190" y="506" text-anchor="middle">Brigade</text>
+</g>
+<g class="node">
+<rect x="1340" y="460" width="220" height="60" />
+<text class="abbrev" x="1450" y="478" text-anchor="middle">2nd BCT, 82nd</text>
+<text x="1450" y="492" text-anchor="middle">2nd Brigade Combat Team, 82nd Airborne Division</text>
+<text class="unit-type" x="1450" y="506" text-anchor="middle">Brigade</text>
+</g>
+<g class="node">
+<rect x="300" y="600" width="220" height="60" />
+<text class="abbrev" x="410" y="618" text-anchor="middle">3rd BCT, 1st CAV</text>
+<text x="410" y="632" text-anchor="middle">3rd Brigade Combat Team, 1st Cavalry Division</text>
+<text class="unit-type" x="410" y="646" text-anchor="middle">Brigade</text>
+</g>
+<g class="node">
+<rect x="560" y="600" width="220" height="60" />
+<text class="abbrev" x="670" y="618" text-anchor="middle">1st ABCT, 1st AD</text>
+<text x="670" y="632" text-anchor="middle">1st Armored Brigade Combat Team, 1st Armored Division</text>
+<text class="unit-type" x="670" y="646" text-anchor="middle">Brigade</text>
+</g>
+<g class="node">
+<rect x="820" y="600" width="220" height="60" />
+<text class="abbrev" x="930" y="618" text-anchor="middle">1-504 PIR</text>
+<text x="930" y="632" text-anchor="middle">1st Battalion, 504th Parachute Infantry Regiment</text>
+<text class="unit-type" x="930" y="646" text-anchor="middle">Battalion</text>
+</g>
+<g class="node">
+<rect x="1080" y="600" width="220" height="60" />
+<text class="abbrev" x="1190" y="618" text-anchor="middle">2-504 PIR</text>
+<text x="1190" y="632" text-anchor="middle">2nd Battalion, 504th Parachute Infantry Regiment</text>
+<text class="unit-type" x="1190" y="646" text-anchor="middle">Battalion</text>
+</g>
+<g class="node">
+<rect x="560" y="740" width="220" height="60" />
+<text class="abbrev" x="670" y="758" text-anchor="middle">1-7 CAV</text>
+<text x="670" y="772" text-anchor="middle">1st Squadron, 7th Cavalry Regiment</text>
+<text class="unit-type" x="670" y="786" text-anchor="middle">Battalion</text>
+</g>
+<g class="node">
+<rect x="820" y="740" width="220" height="60" />
+<text class="abbrev" x="930" y="758" text-anchor="middle">1-36 INF</text>
+<text x="930" y="772" text-anchor="middle">1st Battalion, 36th Infantry Regiment</text>
+<text class="unit-type" x="930" y="786" text-anchor="middle">Battalion</text>
+</g>
+</svg>

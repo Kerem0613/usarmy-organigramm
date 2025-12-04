@@ -1,0 +1,31 @@
+{
+  "name": "usarmy-organigramm",
+  "version": "1.0.0",
+  "description": "Generiert ein Organigramm (SVG + PNG) aus einer PostgreSQL-Hierarchie basierend auf der US Army.",
+  "homepage": "https://github.com/Kerem0613/usarmy-organigramm#readme",
+  "bugs": {
+    "url": "https://github.com/Kerem0613/usarmy-organigramm/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kerem0613/usarmy-organigramm.git"
+  },
+  "author": "",
+  "type": "commonjs",
+  "main": "generate_usarmy_chart.js",
+  "scripts": {
+    "generate": "node generate_usarmy_chart.js"
+  },
+  "keywords": [
+    "organigramm",
+    "postgresql",
+    "svg",
+    "png",
+    "usarmy",
+    "nodejs"
+  ],
+  "dependencies": {
+    "pg": "^8.16.3",
+    "sharp": "^0.34.5"
+  }
+}
