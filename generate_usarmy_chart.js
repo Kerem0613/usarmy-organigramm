@@ -10,9 +10,14 @@ const dbConfig = {
   user: 'postgres',      // dein DB-User
   host: 'localhost',     // bei WSL: meist 'localhost'
   database: 'usarmy',    // DB-Name
-  password: '1234',  // dein Passwort
+  password: process.env.DB_PASS,  // dein Passwort
   port: 5432             // Standard-Port von Postgres
 };
+
+if (!dbConfig.password) {
+  console.error('Fehler: Umgebungsvariable DB_PASS ist nicht gesetzt.');
+  process.exit(1);
+}
 
 async function fetchUnits() {
   const client = new Client(dbConfig);

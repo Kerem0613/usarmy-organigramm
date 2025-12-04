@@ -23,10 +23,10 @@ const dbConfig = {
   user: 'postgres',
   host: 'localhost',
   database: 'usarmy',
-  password: 'PASSWORT',
   port: 5432
 };
 ```
+# In terminal -> export DB_PASS="DeinPasswort"
 
 ### 3. Dependencies installieren
 ```bash
